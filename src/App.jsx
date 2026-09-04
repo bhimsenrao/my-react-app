@@ -1,13 +1,11 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import './App.css'
+
+import Info from './components/Info'
 
 function App() {
   return (
     <>
     <h1> Application for CI & CD</h1>
+    <Info />
     </>
   );
 }

@@ -1,6 +1,7 @@
 
 import Info from './components/Info'
 import Welcome from './components/Welcome'
+import Data from './components/Data'
 function App() {
   return (
     <>

@@ -8,6 +8,7 @@ function App() {
     <Info />
     <hr/>
     <Welcome />
+    <Data />
     </>
   );
 }
